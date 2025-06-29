@@ -12,12 +12,12 @@ This is repo for the Nelsis group assignment.
 
 ## Notes
 
-The project uses JWT tokens for user authentication.
-Email and password-based login functionalities implemented.
-All the API endpoints are secured with JWT authentication.
-The /api/products-public endpoint is public as stated in the requirements.
-Implemented full CRUD functionality via API for products.
-Vue.js frontend user interface for managing products is also present.
+- The project uses JWT tokens for user authentication.
+- Email and password-based login functionalities implemented.
+- All the API endpoints are secured with JWT authentication.
+- The /api/products-public endpoint is public as stated in the requirements.
+- Implemented full CRUD functionality via API for products.
+- A Vue.js frontend user interface for managing products is also present.
 
 
 Hope you have a good day.
