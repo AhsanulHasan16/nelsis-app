@@ -1,5 +1,5 @@
 # nelsis-app
-This is repo for the Nelsis group assignment.
+This is the repo for the Nelsis group assignment.
 
 ## Setup Instructions
 - Clone the repository.
